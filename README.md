@@ -14,5 +14,3 @@ This project includes the following technologies:
 - Media queries for responsive design
 - React Lazy for code splitting and performance optimization
 - Included manifest and service-worker to ensure that the application is a PWA
-
-You can [view the uploaded version here.](https://crwn-clothing152.herokuapp.com/)
